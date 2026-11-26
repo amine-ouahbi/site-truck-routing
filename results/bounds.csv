@@ -1,0 +1,5 @@
+instance,textbook_mip_bound_km,lp_capacity_cuts_bound_km,cpsat_bound_km,cpsat_best_km,cpsat_seconds,proven_optimal
+site-12,43.93,41.47,43.93,43.93,0.9,True
+site-20,49.55,72.75,73.61,73.61,11.8,True
+site-30,56.23,68.38,70.02,72.37,120.0,False
+site-40,,97.49,105.21,110.41,120.1,False

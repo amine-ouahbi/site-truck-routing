@@ -1,0 +1,17 @@
+instance,method,km,trips,avg_trip_min,pct_above_lower_bound,proven_optimal
+site-12,Greedy (nearest point),64.39,4,73.3,46.57,False
+site-12,Clarke-Wright savings,47.22,4,60.4,7.48,False
+site-12,OR-Tools (GLS),43.93,3,73.9,0.0,False
+site-12,Exact (CP-SAT),43.93,3,73.9,0.0,True
+site-20,Greedy (nearest point),79.55,5,77.7,8.07,False
+site-20,Clarke-Wright savings,74.82,5,74.9,1.65,False
+site-20,OR-Tools (GLS),73.88,5,74.3,0.38,False
+site-20,Exact (CP-SAT),73.61,5,74.2,0.0,True
+site-30,Greedy (nearest point),84.66,8,60.5,20.92,False
+site-30,Clarke-Wright savings,74.83,8,56.8,6.88,False
+site-30,OR-Tools (GLS),72.41,8,55.9,3.43,False
+site-30,Exact (CP-SAT),72.37,8,55.9,3.36,False
+site-40,Greedy (nearest point),117.65,11,60.3,11.82,False
+site-40,Clarke-Wright savings,111.39,11,58.6,5.88,False
+site-40,OR-Tools (GLS),110.41,11,58.3,4.94,False
+site-40,Exact (CP-SAT),110.41,11,58.3,4.94,False
